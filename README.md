@@ -1,4 +1,15 @@
+# Create Desktop Apps
+Which .AppImage, .sh, etc.
+
+then...
+
+Properties >> Permissions >> Program: Allow this file to run as rogram
+
 # Sample desktop app
+Save the file in “~/.local/share/applications” or "/usr/share/applications/"
+`~/.local/share/applications/<application-name.desktop>`
+   
+**email.desktop**
 `9` lines of code
 ```bash
 [Desktop Entry]
